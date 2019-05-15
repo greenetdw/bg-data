@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+    <property>
+        <name>fs.defaultFs</name>
+        <value>hdfs://hh:8020</value>
+    </property>
+    <property>
+        <name>hadoop.tmp.dir</name>
+        <value>/home/hadoop/bd/hadoop-2.5.0-cdh5.3.6/hdfs/tmp</value>
+    </property>
+    <property>
+        <name>fs.default.name</name>
+        <value>hdfs://hh:8020</value>
+    </property>
+</configuration>

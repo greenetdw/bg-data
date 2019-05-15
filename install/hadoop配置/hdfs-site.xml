@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+    <property>
+        <name>dfs.http.address</name>
+        <value>hh:50070</value>
+    </property>
+    <property>
+        <name>dfs.namenode.secondary.http-address</name>
+        <value>hh:50090</value>
+    </property>
+    <property>
+        <name>dfs.replication</name>
+        <value>1</value>
+    </property>
+    <property>
+        <name>dfs.namenode.name.dir</name>
+        <value>/home/hadoop/bd/hadoop-2.5.0-cdh5.3.6/hdfs/name</value>
+    </property>
+    <property>
+        <name>dfs.datanode.data.dir</name>
+        <value>/home/hadoop/bd/hadoop-2.5.0-cdh5.3.6/hdfs/data</value>
+    </property>
+    <property>
+        <name>dfs.permissions.enabled</name>
+        <value>false</value>
+    </property>
+</configuration>

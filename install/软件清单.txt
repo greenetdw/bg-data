@@ -1,0 +1,11 @@
+
+hadoop2.5.0-cdh5.3.6.tar.gz
+cdh5.x: http://archive.cloudera.com/cdh5/cdh/5/
+
+jdk-7u79-linux-x64.tar.gz
+
+hbase-0.98.6-cdh5.3.6.tar.gz
+
+mongodb-win32-x86_64-2008plus-ssl-3.0.5-signed.msi
+hive-0.13.1-cdh5.3.6.tar.gz
+

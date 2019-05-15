@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<configuration>
+    <property>
+        <name>hbase.rootdir</name>
+        <value>hdfs://hh/hbase</value>
+    </property>
+    <property>
+        <name>hbase.cluster.distributed</name>
+        <value>true</value>
+    </property>
+    <property>
+        <name>hbase.tmp.dir</name>
+        <value>/home/hadoop/bd/hbase-0.98.6-cdh5.3.6/hbase/tmp</value>
+    </property>
+</configuration>
